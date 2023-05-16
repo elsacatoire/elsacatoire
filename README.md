@@ -5,12 +5,6 @@
 I'm a learning full stack developer at Ada Tech School in Nantes. I love moutains and coding to make life easier. My dream would be to code for a better and easier life form my favorite mountain.  
 I'm looking for a one year apprenticeship starting october-november.
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-catoire-11402753/)
-
-
 ## :raising_hand_woman: Few things about me
 👩‍💻 I'm currently working on a personnal website
 
