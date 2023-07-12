@@ -2,13 +2,13 @@
 
 
 ## 🚀 About Me
-I'm a learning full stack developpment at Ada Tech School in Nantes. I love moutains, and coding to find solutions. My dream would be to code for a better and easier life form my favorite mountain.  
+I'm a learning web/software developpment at Ada Tech School in Nantes. I love moutains and coding. My dream would be to code for a better and easier world form my favorite mountain.  
 I'm looking for a one year apprenticeship starting october-november.
 
 ## :raising_hand_woman: Few things about me
-👩‍💻 I'm currently working on tests and cleancode practice.
+👩‍💻 I'm ramping up on tests and cleancode practice
 
-🧠 I'm currently learning python
+🧠 I currently really enjoy learning python, starting soon Django !
 
 👯‍♀️ I'm looking to collaborate on social and eco friendly projects
 
@@ -24,12 +24,11 @@ I'm looking for a one year apprenticeship starting october-november.
 ## 🛠 Skills
 
 ✨I am working on :  
-Javascript, Python and strating Java
+Javascript, Python and soon Java
 
 ✨I have tried a bit :  
 PHP, SQL, noSQL (mongoDB)
 
 ✨I am using daily :  
 GitHub, Slack and Notion  
-Visual Studio Code, PyCharm
-NodeJS, Jest, Bootstrap
+Visual Studio Code, PyCharm, NodeJS, Jest, Bootstrap
