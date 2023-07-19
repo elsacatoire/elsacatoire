@@ -1,11 +1,11 @@
 Hi, I'm Elsa! 👋
 
 
-#🚀 About Me
+🚀 About Me
 I'm currently learning web/software development at Ada Tech School in Nantes. I have a passion for both mountains and coding. My dream is to code for a greener and more accessible world, right from my favorite mountain. I am looking for a one-year apprenticeship starting in October or November 2023.
 
 
-#🙋‍♀️ Few things about me:
+🙋‍♀️ Few things about me:
 
 👩‍💻 I'm currently focusing on practicing tests and clean code techniques.
 
@@ -22,7 +22,7 @@ I'm currently learning web/software development at Ada Tech School in Nantes. I 
 ⚡️ Fun fact: I used to be a trapeze teacher!
 
 
-#🛠 Tech Skills
+🛠 Tech Skills
 ✨ I learned : JavaScript (HTML/CSS), Python
 
 ✨ urrently working on: PHP, SQL, noSQL (mongoDB), Java, Express, Next, Vue JS
@@ -30,7 +30,7 @@ I'm currently learning web/software development at Ada Tech School in Nantes. I 
 ✨ Using daily: GitHub, Slack, and Notion, Visual Studio Code, PyCharm, NodeJS, Jest.
 
 
-#🛠 Soft Skills
+🛠 Soft Skills
 ✨ Teamwork: together we go further :
 
 ✨ Attention to Detail: from spelling to architecture
