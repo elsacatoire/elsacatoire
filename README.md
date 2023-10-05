@@ -25,7 +25,8 @@
 - Some advanced projects with React, Next and React Native
 - Use of SQL and NoSQL databases
 - Basics of servers : Apache, Java Spring Boot, Express
-- Tests in Python, Java, JavaScript  
+- Tests in Python, Java, JavaScript
+
 🧪 Currently working on Angular and Java Spring Boot  
 🧰 Using daily: 
 - Git, GitHub, Slack, Notion
