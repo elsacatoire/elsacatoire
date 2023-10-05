@@ -38,7 +38,7 @@
 🤝 Teamwork: I love dev beacause I get to work with people while being responsible and autonomous  
 🔍 Attention to details: from syntax to architecture  
 🧩 Problem-solving: this is what I liked as a manager, and what I attracted me into coding  
-🌈 Curiosity: In need for constent learning, movment and challenge, always in a safe environement thow  
+🌈 Curiosity: In need for constant learning, movement and challenge, always in a safe environment though  
 🌏 Communication: experienced in communicating with technical and non-technical people, talk in public, ensuring that everyone has the same level of information  
 🧗 Adaptability: change is my comfort zone  
 🐼 Empathy: sometimes undertanding others is not the point, but listen and be there is  
