@@ -8,8 +8,8 @@
 
 
 ## 🙋‍♀️ Few things about me
-👩‍💻 I'm currently focusing on practicing tests and to use more fluently Java and Angular  
-🧠 I'm really enjoying learning Python, and I'll soon start diving into Django  
+👩‍💻 I'm currently focusing on practicing TypeScript and to use more fluently Java and Angular  
+🧠 I'm really enjoying learning FullStack Frameworks and SSR/CSR notions  
 👯‍♀️ I'm eager to collaborate on social and eco-friendly projects  
 🤔 I'm also looking for help with starting my first "pro" project : a website for my home village in the Pyrenees  
 💬 Feel free to ask me about my favorite food, spoiler alert: I can't choose, but I've traveled enough to talk about it for hours  
@@ -20,14 +20,16 @@
 ## 🛠 Tech Skills
 
 ✨ I learned :  
-- Basics JavaScript, HTML, CSS, node, PHP
+- Basics JavaScript, HTML, CSS, node, PHP, Angular
 - Basics of Python
-- Some advanced projects with React, Next and React Native
+- Some advanced projects with React/Next and React Native
 - Use of SQL and NoSQL databases
 - Basics of servers : Apache, Java Spring Boot, Express
 - Tests in Python, Java, JavaScript  
 
-🧪 Currently working on Angular and Java Spring Boot  
+🧪 Currently working on :
+- Java Spring Boot
+- TypeScript
 
 🧰 Using daily: 
 - Git, GitHub, Slack, Notion
