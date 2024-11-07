@@ -2,9 +2,9 @@
 
 
 ## 🚀 About Me  
+💼 I am an apprentice FullStack developper since October with Apside Nantes.  
 🌐 Learning web/software development at Ada Tech School in Nantes since january 2023.  
 🏔️ I have a passion for both mountains and coding (finding usefull solutions). My dream is to code for a greener and more accessible world, right from my favorite mountain.  
-💼 I start an apprenticeship as a FullStack developper, for 13 months, the 23th of October with Apside Nantes.  
 
 
 ## 🙋‍♀️ Few things about me
